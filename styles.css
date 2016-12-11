@@ -11,6 +11,18 @@ body{
     font-size: 12px;
     text-align: center;
 }
+#second-paragraph {
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
+#titlee {
+color: white;
+text-shadow: 5px;
+font-size: 40px;
+border-bottom: 4px;
+border-style: double;
+}
 }
 
 @media screen and (min-width: 1000px){
@@ -22,6 +34,17 @@ body{
     font-size: 22px;
     text-align: center;
 }
+#second-paragraph{
+color: #fff;
+font-size: 22px;
+text-align: center;
+}
+#titlee {
+color: white;
+text-shadow: 6px;
+font-size: 60px;
+border-bottom: 5px;
+border-style: double;
 }
 
 h1 {
