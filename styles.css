@@ -21,7 +21,7 @@ color: white;
 text-shadow: 5px;
 font-size: 40px;
 border-bottom: 4px;
-border-style: double;
+border-bottom-style: double;
 }
 }
 
@@ -44,7 +44,7 @@ color: white;
 text-shadow: 6px;
 font-size: 60px;
 border-bottom: 5px;
-border-style: double;
+border-bottom-style: double;
 }
 
 h1 {
