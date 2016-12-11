@@ -6,11 +6,21 @@ body{
 body{
     background-color: blue;
 }
+#first-paragraph {
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
 }
 
 @media screen and (min-width: 1000px){
 body{
   background-color: black;
+}
+#first-paragraph {
+    color: #7171C6;
+    font-size: 22px;
+    text-align: center;
 }
 }
 
