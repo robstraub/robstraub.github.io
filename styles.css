@@ -4,11 +4,11 @@ body{
 
 @media screen and (min-width: 400px){
 body{
-background-color: blue;
+    background-color: blue;
 }
 }
 
-@media screen and (min-width: 800px){
+@media screen and (min-width: 1000px){
 body{
   background-color: black;
 }
