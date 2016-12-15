@@ -6,7 +6,7 @@ body{
 
 @media screen and (min-width: 400px){
 body{
-    background-color: blue;
+    background-color: lightgreen;
     background-image: url("http://68.media.tumblr.com/tumblr_luq2usrrHu1qjoiq8o1_540.jpg#http://68.media.tumblr.com/tumblr_luq2usrrHu1qjoiq8o1_500.jpg");
     background-size: 100% 100%;
 }
@@ -29,7 +29,7 @@ border-bottom-style: double;
 }
 }
 
-@media screen and (min-width: 1000px){
+@media screen and (min-width: 800px){
 body{
   background-color: black;
   background-image: url("http://68.media.tumblr.com/42cbe174ca584f7e1909cd539358144e/tumblr_n0l09m1MQA1rwtk9uo1_1280.jpg#http://68.media.tumblr.com/42cbe174ca584f7e1909cd539358144e/tumblr_n0l09m1MQA1rwtk9uo1_500.jpg");
