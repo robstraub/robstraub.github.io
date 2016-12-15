@@ -7,9 +7,10 @@ body{
 @media screen and (min-width: 400px){
 body{
     background-color: lightgreen;
-    background-image: url("http://68.media.tumblr.com/tumblr_luq2usrrHu1qjoiq8o1_540.jpg#http://68.media.tumblr.com/tumblr_luq2usrrHu1qjoiq8o1_500.jpg");
+    background-image: url("http://68.media.tumblr.com/42cbe174ca584f7e1909cd539358144e/tumblr_n0l09m1MQA1rwtk9uo1_1280.jpg#http://68.media.tumblr.com/42cbe174ca584f7e1909cd539358144e/tumblr_n0l09m1MQA1rwtk9uo1_500.jpg");
     background-size: 100% 100%;
 }
+
 #first-paragraph {
     color: #fff;
     font-size: 16px;
@@ -32,7 +33,7 @@ border-bottom-style: double;
 @media screen and (min-width: 800px){
 body{
   background-color: black;
-  background-image: url("http://68.media.tumblr.com/42cbe174ca584f7e1909cd539358144e/tumblr_n0l09m1MQA1rwtk9uo1_1280.jpg#http://68.media.tumblr.com/42cbe174ca584f7e1909cd539358144e/tumblr_n0l09m1MQA1rwtk9uo1_500.jpg");
+  background-image: url("http://68.media.tumblr.com/tumblr_luq2usrrHu1qjoiq8o1_540.jpg#http://68.media.tumblr.com/tumblr_luq2usrrHu1qjoiq8o1_500.jpg");
   background-size: 100% 100%;
 }
 #first-paragraph {
@@ -41,20 +42,14 @@ body{
     text-align: center;
 }
 #second-paragraph{
-color: #fff;
+color: #7171C6;
 font-size: 22px;
 text-align: center;
 }
 #titlee {
-color: white;
+color: #7171C6;
 text-shadow: 6px;
 font-size: 60px;
 border-bottom: 5px;
 border-bottom-style: double;
-}
-
-h1 {
-  color: #7D9EC0;
-  font-size: 20px;
-  text-align: left;
 }
